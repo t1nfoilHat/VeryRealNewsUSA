@@ -1,0 +1,6 @@
+venv
+.env
+.vscode
+
+# funcitonally, a data dir
+headlines
